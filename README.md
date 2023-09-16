@@ -1,4 +1,4 @@
-# Solo Jack
+# SoloJack
 Blackjack Card Game
 Background and Motivation
 Card games have been popular since the fourteenth century in Europe. Blackjack, in particular, is a widely played casino game. The objective is to have a card count higher than the dealer but less than 21. This project aims to create a unique version of Blackjack where the Ace card's rank is always one, offering a new twist to the classic game.
